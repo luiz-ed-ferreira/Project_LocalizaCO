@@ -12,7 +12,7 @@ Completed
 - [x] Analysis of the main data for the second hypothesis
 - [x] Analysis "Dados Operações_localiza.xlsm" file
 
-> Attention! Consult the <b color="blue>Content</b> folder to view the analyses.
+> Attention! Consult the <b>Content</b> folder to view the analyses.
  
 ### Prerequisites & used softwares
 
